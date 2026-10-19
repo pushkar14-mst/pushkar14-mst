@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushkar14-mst" alt="pushkar14-mst" /></a> </p>
 
-- 👨‍💻 Find my work on [https://www.devpushkar.tech/](https://www.devpushkar.tech/)
+- 👨‍💻 Find my work on [https://www.pushkarcodes.in/](https://www.pushkarcodes.in/)
 
 - 📫 How to reach me **pushkar14.patil@gmail.com**
 
